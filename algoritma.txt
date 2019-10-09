@@ -1,0 +1,5 @@
+surf
+kmeans clustering
+standard scaler(normalisasi hist)
+svm
+gridsearch cross validation
